@@ -1,0 +1,25 @@
+{
+    "name": "nova chalga",
+    "repeat": false,
+    "shuffle": false,
+    "_songs": [
+        {
+            "title": "Jaza",
+            "artist": "Slavi",
+            "album": "???",
+            "song_length": "4:34"
+        },
+        {
+            "title": "Leb",
+            "artist": "Rammstein",
+            "album": "??",
+            "song_length": "2:45"
+        },
+        {
+            "title": "Ad i Rai",
+            "artist": "Slavi",
+            "album": "???",
+            "song_length": "3:45"
+        }
+    ]
+}

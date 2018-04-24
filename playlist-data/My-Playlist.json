@@ -1,0 +1,19 @@
+{
+    "name": "My Playlist",
+    "repeat": true,
+    "shuffle": true,
+    "_songs": [
+        {
+            "title": "Jaza",
+            "artist": "Slavi",
+            "album": "???",
+            "song_length": "4:34"
+        },
+        {
+            "title": "Leb",
+            "artist": "Rammstein",
+            "album": "??",
+            "song_length": "2:45"
+        }
+    ]
+}
